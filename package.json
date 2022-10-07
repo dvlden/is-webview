@@ -19,7 +19,7 @@
   ],
   "scripts": {
     "build": "rollup --config rollup.config.ts --configPlugin typescript",
-    "test": "vitest --coverage"
+    "test": "vitest"
   },
   "author": {
     "name": "Nenad Novaković",

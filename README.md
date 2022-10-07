@@ -1,5 +1,8 @@
 ![Is Webview](https://repository-images.githubusercontent.com/547424093/1ecc670a-803d-489d-b9d1-a289c351a14b)
 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/dvlden/is-webview?color=86c7ff&style=flat-square)
+![npm bundle size (scoped)](https://img.shields.io/bundlephobia/minzip/@dvlden/is-webview?color=%2386c7ff&style=flat-square)
+
 # Is Webview
 A utility module that takes user-agent string and determines whether it uses webview or native browser. It has been tested for Android and Apple devices with a few samples collected by running ads.
 

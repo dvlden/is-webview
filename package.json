@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "@dvlden/is-webview",
   "description": "Detect if a visitor is coming through a webview or a native browser using user-agent.",
   "keywords": [

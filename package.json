@@ -10,7 +10,7 @@
     "browser",
     "mobile"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1-beta.1",
   "main": "dist/is-webview.js",
   "module": "dist/is-webview.mjs",
   "typings": "dist/is-webview.d.ts",

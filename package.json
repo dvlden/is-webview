@@ -21,6 +21,7 @@
     "build": "rollup --config rollup.config.ts --configPlugin typescript",
     "test": "vitest"
   },
+  "repository": "github:dvlden/is-webview",
   "author": {
     "name": "Nenad Novaković",
     "email": "n.dvlden@gmail.com",

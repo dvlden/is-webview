@@ -31,7 +31,6 @@
   "packageManager": "pnpm@7.11.0",
   "devDependencies": {
     "@rollup/plugin-typescript": "^8.5.0",
-    "@vitest/coverage-c8": "^0.24.0",
     "esbuild": "^0.15.10",
     "rollup": "^2.79.1",
     "rollup-plugin-dts": "^4.2.2",

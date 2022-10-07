@@ -30,6 +30,6 @@ jobs:
           registry-url: https://npm.pkg.github.com/
       - uses: pnpm/action-setup@v2.2.2
       - run: pnpm i
-      - run: pnpm publish
+      - run: pnpm publish --no-git-checks
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}

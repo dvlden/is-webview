@@ -12,6 +12,8 @@ const samples = {
     'Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 254.0.0.15.109 (iPhone11,8; iOS 15_6_1; en_CA; en-CA; scale=2.00; 828x1792; 401726258)',
     // Facebook
     'Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19G82 [FBAN/FBIOS;FBDV/iPhone14,2;FBMD/iPhone;FBSN/iOS;FBSV/15.6.1;FBSS/3;FBID/phone;FBLC/nl_NL;FBOP/5]',
+    // Microsoft Teams
+    'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 TeamsMobile-iOS',
 
     // => Android
     // SnapChat
@@ -22,6 +24,8 @@ const samples = {
     'Mozilla/5.0 (Linux; Android 9; H8276 Build/52.0.A.11.32; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.136 Mobile Safari/537.36 Instagram 253.0.0.23.114 Android (28/9; 480dpi; 1080x2016; Sony; H8276; H8276; qcom; en_CA; 399993162)',
     // Facebook
     'Mozilla/5.0 (Linux; Android 11; SM-A037F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.136 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/321.0.0.13.113;]',
+    // Microsoft Teams
+    'Mozilla/5.0 (Linux; Android 11; M2102J20SG Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4692.70 Mobile Safari/537.36 TeamsMobile-Android'
   ],
   negative: [
     'Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Mobile/15E148 Safari/604.1',
